@@ -1,0 +1,90 @@
+{
+    "level": 5,
+    "levelMap": [
+        "111111111111111111",
+        "111111110001111111",
+        "100111110101111111",
+        "110000000101111111",
+        "111111111101111111",
+        "111110001101111111",
+        "111110101101111111",
+        "111110100001111111",
+        "111110111111111111",
+        "111111111111111111"
+    ],
+    "enemies": [
+        "pumpkinEnemy",
+        "pumpkinEnemy",
+        "treeEnemy",
+        "pumpkinEnemy",
+        "birdEnemy",
+        
+        "bugabooEnemy",
+        
+        "treeEnemy",
+        "birdEnemy",
+        "treeEnemy",
+        "birdEnemy",
+        
+        "pumpkinEnemy",
+        "pumpkinEnemy",
+        "pumpkinEnemy",
+        "pumpkinEnemy",
+        "pumpkinEnemy",
+        "pumpkinEnemy",
+        "pumpkinEnemy",
+        
+        "bugabooEnemy",
+        "bugabooEnemy",
+        "bugabooEnemy",
+        "bugabooEnemy",
+
+        "treeEnemy",
+        "treeEnemy",
+        "treeEnemy",
+        "treeEnemy",
+        "treeEnemy"
+    ],
+    "delays": [
+        1.00,
+        8.00,
+        1.00,
+        1.00,
+        10.00,
+        
+        12.00,
+        
+        1.00,
+        1.00,
+        1.00,
+        8.00,
+        
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        3.5,
+        
+        2.00,
+        2.00,
+        2.00,
+        15.00,
+        
+        0.2,
+        0.2,
+        0.2,
+        0.2,
+        0.2
+        
+    ],
+    "spawnerPoint": {
+        "X": 1,
+        "Y": 2
+    },
+    "despawnerPoint": {
+        "X": 5,
+        "Y": 8
+    }
+}
